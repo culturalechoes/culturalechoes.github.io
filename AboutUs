@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Cultural Echoes - About Us</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/additional-css.css" rel="stylesheet">
+    <link rel='shortcut icon' type='image/x-icon' href='./img/icons/favicon.ico' />
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-header fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="Index"><img class = "header-img" src="./img/CulturalEchoesHeaderB.png" alt=""/></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav margin-header-left">
+            <li class="nav-item">
+              <a class="nav-link active" href="AboutUs">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Documents">How We Work</a>
+            </li>
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Projects
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="Map">Abandoned Opportunities</a>
+                <a class="dropdown-item" href="https://docs.google.com/document/d/1u6scHBZyUieDGXC0d4JmMUt9L7xsutvjRL7O5XoG_N8/edit?usp=sharing" target="_blank">International Call</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link contact" >Contact</a>
+            </li>
+            
+            
+            
+          </ul>
+          <div class="nav-item dropdown flags">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img class = "language-img" src="./img/logos/british-flag.png" alt=""/>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="Index_mk"><img class = "language-img" src="./img/logos/macedonian-flag.png" alt=""/> Macedonian</a>
+                <a class="dropdown-item" href="Index"><img class = "language-img" src="./img/logos/british-flag.png" alt=""/> English</a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+     
+
+      <hr class="border-color">
+
+      <!-- Intro Content -->
+      <div class="row">
+        <div class="col-lg-6">
+          <img class="img-fluid rounded mb-4 height-450" src="./img/logos/CulturalEchoesCy.png" alt="">
+        </div>
+        <div class="col-lg-6 padding-top-about">
+          <h2>Cultural Echoes</h2>
+          <p class ="objects-color-text text-justify">Cultural Echoes is an international, non-governmental and independent organization based in Skopje, Macedonia. </p> <p class ="objects-color-text text-justify">With a background ranging from architecture to computer science, stopping by law and several of the arts, our mission is to promote urban and environmental responsibility. Aiming to rediscover, redefine and address common issues through smart strategies. Opening new perspectives in order to create a more sustainable, socio-culturally friendly and modern urban environment. </p>
+          
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <!-- Team Members -->
+      <h2 class = "text-center margin-title-team">Our Team</h2>
+
+      <div class="row">
+        <div class="col-lg-2 col-md-1 mb-3">
+          
+        </div>
+        <div class="col-lg-4 col-md-5 mb-3">
+          <div class="card  text-center simona-card">
+            <img class="card-img-top max-h rounded-circle profile-card-pics" src="./img/simona.jpg" alt="">
+            <div class="card-body">
+              <h4 class="card-title">Simona Dimkovska</h4>
+              
+                <h6 class="card-subtitle mb-2 text-muted">President</h6>
+                <p class="card-text objects-color-text">Simona Dimkovska was born in 1989 in Kumanovo.<a class = "bio-more-s white-text-button"> Show More</a></p>
+                <p class="bio-rest-s card-text objects-color-text" style="display:none"> She graduates at &#34;Goce Delchev&#34; high school in 2008 and receives her bachelor degree in architecture at the Faculty for Architecture within the &#34;Sts. Cyril and Methodius&#34; University in Skopje, in 2011. Attending the same university, she gains her bachelor
+                degree in acting at the Faculty for Dramatic Arts in 2015.<br><br>
+                She successfully combines and applies knowledge from both areas. She works as a set designer for the
+                plays Ljubof (2013) &#150; produced at the Youth Cultural Center in Skopje, as well as Carnage (2014), a play
+                of a master studies student, produces at the Faculty for Dramatic Arts.<br><br>
+                As an actress, she works in the plays of the well-established Slobodan Unkovski: Solun &#150; grad na duhovi
+                (2014/2015), Lerin (2016) &#150; both produced at the independent &#34;Navigator's Cvetko Theater.&#34; She
+                performs in Einstein's dreams (2015), co-produced with the National theater &#34;Vojdan Chernodrinski&#34; in
+                Prilep. In 2016 she performs in the play Antigone and Creon, directed by Nela Vitosevic.
+                In the field of film and television she stars in few TV advertisements, one of them directed by Milcho
+                Manchevski. She also appears in a TV series show, directed by Timur Alpatov, where she acts a character
+                in Russian.
+                She has a role in the movie The secret ingredient (2017), directed by Gjorce Stavreski.<br><br>
+                She has participated in many workshops revolving around different topics: Chekhov, voice and body,
+                theater and politics etc.
+                She speaks English and Serbian.<br>
+              <a class = "bio-less white-text-button"> Show Less</a></p>
+            </div>
+            <div class="card-footer">
+              <a class = "white-text-button" href="#">simonadimkovska@culturaleachoes.org</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-5 mb-3">
+          <div class="card  text-center tomas-card">
+            <img class="card-img-top max-h rounded-circle profile-card-pics" src="./img/tomasnew.jpg" alt="">
+            <div class="card-body">
+              <h4 class="card-title">Tom&aacute;s Romero Talley</h4>
+              <h6 class="card-subtitle mb-2 text-muted">Vice-President</h6>
+              <p class="card-text objects-color-text">Tom&aacute;s Romero Talley, Spanish-U.S. citizen born in Barcelona, 1994.<a class = "bio-more-t white-text-button"> Show More</a></p><p class="bio-rest-t card-text objects-color-text" style="display:none"> Has lived between the States and Barcelona, where he is currently based. Grew up as part of the Fab Lab Kids&#39; pilot program at the Fab Lab Barcelona &#150; an initiative of MIT&#39;s Center for Bits and Atoms, lead by physicist Neil Gershenfeld. In 2017, enrolled with a scholarship in the &#39;Global Summer School&#39; at the Institute of Advanced Architecture of Catalonia (IAAC).<br><br> Currently completing a Bachelor&#39;s Degree in Architecture at the Polytechnic University of Catalonia. <br><br>Like many humans in their twenties, has held a broad range of multidisciplinary jobs: Construction Apprentice 2014; Draftsman in AART Architectural Firm 2015; Intern Collaborator at Fab Lab Barcelona 2015; Security Guard 2018; Start-Up co-founder in Barcelona 2018.<br>
+
+              <a class = "bio-less white-text-button"> Show Less</a></p>
+              
+            </div>
+            <div class="card-footer">
+              <a class = "white-text-button" href="#">tomasromerotalley@culturalechoes.org</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-2 col-md-3 mb-3">
+          
+        </div>
+      </div>      <!-- /.row -->
+
+      <!-- Our Customers -->
+      
+      
+      <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-footer">
+      <div class="container">
+        <div class=" text-center social-icons">
+                  <a target="_blank" href="https://www.facebook.com/CulturalEchoes/" class="social-footer">
+                    <i class="fa fa-facebook-square fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://twitter.com/EchoesCultural" class="social-footer">
+                    <i class="fa fa-twitter-square fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://www.instagram.com/culturalechoes/" class="social-footer">
+                    <i class="fa fa-instagram fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://www.linkedin.com/company/cultural-echoes" class="social-footer">
+                    <i class="fa fa-linkedin-square fa-2x icon-muted"></i>
+                  </a>
+        </div>
+        <p class="m-0 text-center text-grey">contact@culturalechoes.org<br></p>
+        
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        
+        $(".contact").click(function(){
+          $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+        });
+        $(".bio-more-s").click(function(){
+          console.log("smt funnz");
+          $(".bio-rest-s").fadeIn( "slow" );
+          $(".bio-rest-t").fadeOut( "slow" );
+          $(".bio-more-t").fadeIn( "slow" );
+          $(this).hide();
+          $(".tomas-card").css("max-height","100%");
+          $(".simona-card").css("max-height","3500px");
+          
+         
+        });
+        $(".bio-more-t").click(function(){
+          console.log("smt funnz");
+          $(".bio-rest-t").fadeIn( "slow" );
+          $(".bio-rest-s").fadeOut( "slow" );
+          $(".bio-more-s").fadeIn( "slow" );
+          $(this).hide();
+          $(".simona-card").css("max-height","100%");
+          $(".tomas-card").css("max-height","3500px");;
+
+         
+        });
+
+        $(".bio-less").click(function(){
+          console.log("smt funnz");
+          $(this).parent().fadeOut( "slow" );
+          $(this).parent().siblings().children().fadeIn( "slow" );
+          
+        });
+
+
+
+      });
+
+    </script>
+  </body>
+
+</html>

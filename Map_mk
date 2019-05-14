@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Cultural Echoes - Abandoned Opportunities</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/additional-css.css" rel="stylesheet">
+    <link rel='shortcut icon' type='image/x-icon' href='./img/icons/favicon.ico' />
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-header fixed-top">
+
+      <div class="container">
+        <a class="navbar-brand" href="Index_mk"><img class = "header-img" src="./img/CulturalEchoesHeaderB.png" alt=""/></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav margin-header-left">
+            <li class="nav-item">
+              <a class="nav-link " href="AboutUs_mk">За Нас</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Documents_mk">Начин На Работа</a>
+            </li>
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Проекти
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="Map_mk">Напуштени Можности</a>
+                <a class="dropdown-item" href="https://docs.google.com/document/d/1u6scHBZyUieDGXC0d4JmMUt9L7xsutvjRL7O5XoG_N8/edit?usp=sharing" target="_blank">Меѓународен повик</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link contact" >Контакт</a>
+            </li>
+            
+            
+            
+          </ul>
+          <div class="nav-item dropdown flags">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img class = "language-img" src="./img/logos/macedonian-flag.png" alt=""/>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="Index_mk"><img class = "language-img" src="./img/logos/macedonian-flag.png" alt=""/> Macedonian</a>
+                <a class="dropdown-item" href="Index"><img class = "language-img" src="./img/logos/british-flag.png" alt=""/> English</a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="text-center red"><a class="contact" >Контактирајте нѐ</a> доколку имате информации за напуштен објект </div>
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-4 mb-3 text-center">Напуштени Можности
+
+
+        <small></small>
+      </h1>
+
+      <hr>
+
+      <!-- Content Row -->
+      <div class="row">
+        <!-- Map Column -->
+        <div class="col-lg-8 mb-4">
+          <!-- Embedded Google Map -->
+          <div id="map"></div>
+        </div>
+        <!-- Contact Details Column -->
+        <div class="col-lg-4 mb-4">
+          <h3 class = "margin-title">Ознака за состојбата</h3>
+          
+          <p class = "objects-color-text">
+           <img src="./img/icons/green.png" class="ss-icon"> добра состојба - мала интервенција
+
+          </p>
+          <p class = "objects-color-text">
+            <img src="./img/icons/yellow.png" class="ss-icon"> лоша состојба - средна интервенција
+            
+          </p>
+          <p class = "objects-color-text">
+            <img src="./img/icons/red.png" class="ss-icon"> многу лоша состојба - голема интервенција
+          </p>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <!-- Contact Form -->
+      <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+      <div class="row margin-title">
+        
+        <div class="col-lg-12">
+          <p class = "text-center">
+            <a class = "white-text-button" href="https://docs.google.com/document/d/1gdndX-YdkQS41E34eIVzMZqQIHCvtWKaL8mYQ26v_x8/edit?usp=sharing" target ="_blank">Протокол</a>
+          </p>
+          <p class = "objects-color-text text-justify">Детално истражување за напуштени објекти кои претставуваат (потенцијална) закана за безбедност и општото здравје за луѓето, животните и животната средина, нивна реставрација или пренамена, и реупотреба за општо добро.</p>
+          <p class = "objects-color-text text-justify">Со цел правилно да се искористат пропаднатите фабрики и останатите објекти во државна или приватна сопственост, кои имаат потенцијал за воведување на соодветна функционална програма или имаат културно-историски идентитет, а се наоѓаат во загрозена состојба, како и, да се информираат граѓаните за: сопственоста, моменталната состојба, степенот на загрозеност, влијанието на објектите кои се загрозени, а непосредно и околината, можните идејни решенија на проблематиките и ревалоризирање и редефинирање на градската инфраструктура, овој проект првично ќе се насочи кон евидентирање, мапирање и визуелна техничка документација на истите.</p>
+          <p class = "objects-color-text text-justify">Во согласност со горенаведеното, првична цел на овој проект е да се изработи апликација - интерактивна мапа со која што ќе може да се изврши евиденција (увид за моменталната состојба) преку визуелен приказ на напуштените објекти. Апликацијата ќе биде од едукативен карактер и до неа ќе имаат пристап заинтересираните граѓани. Податоците од извршеното истражување ќе бидат презентирани пред надлежните државни органи и локалното население, каде ќе се дискутира и за пронаоѓање на соодветни креативни архитектонски решенија за: реставрација, конзервација и ревитализација на објектите; во соработка со стручен тим од областа на архитектурата (студенти од Архитектонските факултети на локално и глобално ниво и лица кои професионално се занимаваат со архитектура).</p>
+        </div>
+      </div>  
+      <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-footer">
+      <div class="container">
+        <div class=" text-center social-icons">
+                  <a target="_blank" href="https://www.facebook.com/CulturalEchoes/" class="social-footer">
+                    <i class="fa fa-facebook-square fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://twitter.com/EchoesCultural" class="social-footer">
+                    <i class="fa fa-twitter-square fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://www.instagram.com/culturalechoes/" class="social-footer">
+                    <i class="fa fa-instagram fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://www.linkedin.com/company/cultural-echoes" class="social-footer">
+                    <i class="fa fa-linkedin-square fa-2x icon-muted"></i>
+                  </a>
+        </div>
+        <p class="m-0 text-center text-grey">contact@culturalechoes.org<br></p>
+        
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+    <script>
+    function initMap(){
+      // Map options
+      var options = {
+        zoom:8,
+        center:{lat: 41.655, lng: 21.767}
+      }
+
+      // New map
+      var map = new google.maps.Map(document.getElementById('map'), options);
+
+      
+      
+
+      /*
+      // Add marker
+      var marker = new google.maps.Marker({
+        position:{lat:42.4668,lng:-70.9495},
+        map:map,
+        icon:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+      });
+
+      var infoWindow = new google.maps.InfoWindow({
+        content:'<h1>Lynn MA</h1>'
+      });
+
+      marker.addListener('click', function(){
+        infoWindow.open(map, marker);
+      });
+      */
+
+      // Array of markers
+      var markers = [
+        {
+          coords:{lat: 42.0059943, lng: 21.5009999},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Ченто </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk" target="_blank"><img class="example-image" src="./img/20180427_140915.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.0037487,lng:21.4956029},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Ченто, Лонџа </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#chento" target="_blank" ><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.0011006,lng:21.3758591},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">“Купром“ </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#londza" target="_blank" ><img class="example-image" src="./img/04Skopje - Kuprom/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.1193693,lng:21.7449777},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Хотел “КУ-БА “ </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#kuprom" target="_blank"><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/3.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.5034142,lng:20.9417212},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Млин и Фабрика </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#hotel-kuba" target="_blank"><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/7.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.1746556,lng:20.6843228},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Затворен базен </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#fabrika-kichevo" target="_blank"><img class="example-image" src="./img/07Struga - Bazen/6.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.0933078,lng:20.6323884},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Камп Треска </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#bazen" target="_blank"><img class="example-image" src="./img/06Struga - Treska/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.918196,lng:22.413458},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Спомен Дом -  <br> АСНОМ  </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#treska" target="_blank"><img class="example-image" src="./img/08Kocani - ASNOM/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.1388804,lng:21.7179776},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Фабрика за леб и бели пецива </h4><div class="portrait"><a class="example-image-link" href= "./Objects_mk#asnom" target="_blank"><img class="example-image" src="./img/09Kumanovo - fabrika leb/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.4124781,lng:21.0499332},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Фабрика ”Гранит” </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#fabrika-kumanovo" target="_blank"><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/3.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.020346,lng:21.331319},
+          iconImage:'./img/icons/yellow.png',
+          content:'<h4 class = "map-font-size">Воена зграда </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#fabrika-cer" target="_blank"><img class="example-image" src="./img/11 Bitola - Voen objekt/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.032729,lng:21.324680},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Фабрика за Кожа и Текстил <br> – Трикотажа ”Пелистер”</h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#kasarna" target="_blank"><img class="example-image" src="./img/12 Bitola fabrika koza/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.108139,lng:21.469472},
+          iconImage:'./img/icons/yellow.png',
+          content:'<h4 class = "map-font-size">Зимско Одмаралиште</h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#ljubanci" target="_blank"><img class="example-image" src="./img/13Ljubanci/4.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.005705,lng:21.391209}, 
+          iconImage:'./img/icons/yellow.png',
+          content:'<h4 class = "map-font-size">Спортска сала ”Партизан” </h4><div class="devided"><a class="example-image-link" href= "./Objects_mk#partizan" target="_blank"><img class="example-image" src="./img/14 Partizan/01.jpg" alt=""/></a></div>'
+        }
+      ];
+
+      // Loop through markers
+      for(var i = 0;i < markers.length;i++){
+        // Add marker
+        addMarker(markers[i]);
+      }
+
+      // Add Marker Function
+      function addMarker(props){
+        var marker = new google.maps.Marker({
+          position:props.coords,
+          map:map,
+          //icon:props.iconImage
+        });
+
+        // Check for customicon
+        if(props.iconImage){
+          // Set icon image
+          marker.setIcon(props.iconImage);
+        }
+
+        // Check content
+        if(props.content){
+          var infoWindow = new google.maps.InfoWindow({
+            content:props.content
+          });
+
+          marker.addListener('click', function(){
+            infoWindow.open(map, marker);
+          });
+        }
+      }
+    }
+  </script>
+  <script>
+      $(document).ready(function() {
+        
+        $(".contact").click(function(){
+          $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+        });
+
+
+
+      });
+
+    </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAJz-LTfCz7NBwnn5yrlKgFpARxeNUZz9o&callback=initMap"
+    async defer></script>
+
+  </body>
+
+</html>

@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Cultural Echoes - Abandoned Opportunities</title>
+    <link rel="stylesheet" href="./css/lightbox.min.css">
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/additional-css.css" rel="stylesheet">
+    <link rel='shortcut icon' type='image/x-icon' href='./img/icons/favicon.ico' />
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-header fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="Index_mk"><img class = "header-img" src="./img/CulturalEchoesHeaderB.png" alt=""/></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav margin-header-left">
+            <li class="nav-item">
+              <a class="nav-link " href="AboutUs_mk">За Нас</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Documents_mk">Начин На Работа</a>
+            </li>
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Проекти
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="Map_mk">Напуштени Можности</a>
+                <a class="dropdown-item" href="https://docs.google.com/document/d/1u6scHBZyUieDGXC0d4JmMUt9L7xsutvjRL7O5XoG_N8/edit?usp=sharing" target="_blank">Меѓународен повик</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link contact" >Контакт</a>
+            </li>
+            
+            
+            
+          </ul>
+          <div class="nav-item dropdown flags">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img class = "language-img" src="./img/logos/macedonian-flag.png" alt=""/>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="Index_mk"><img class = "language-img" src="./img/logos/macedonian-flag.png" alt=""/> Macedonian</a>
+                <a class="dropdown-item" href="Index"><img class = "language-img" src="./img/logos/british-flag.png" alt=""/> English</a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-4 mb-3">Напуштени Можности
+       
+      </h1>
+      <hr>
+      
+
+      <!-- Project One -->
+      <div class="row">
+        <div id="chento" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/02Skopje - Gazi Baba, Cento/02.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Ченто (Скопје)</h3>
+          <p class="objects-color-text">Немаме дополнителни информации во моментот.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/01.jpg" data-lightbox="chento-domce" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/01.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/02.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/02.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/03.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/03.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/4.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/5.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/6.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/7.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/8.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/9.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/10.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/11.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/12.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/13.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/13.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/14.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/14.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/15.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/15.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/16.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/16.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/02Skopje - Gazi Baba, Cento/17.jpg" data-lightbox="chento-domce" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/02Skopje - Gazi Baba, Cento/17.jpg" alt="" /></a>
+                      </div>
+                        
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Two -->
+      <div class="row">
+        <div id="londza" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/03Skopje - Gazi Baba, Cento Londza/2.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Ченто, Лонџа (Скопје)</h3>
+          <p class="objects-color-text">Немаме дополнителни информации во моментот.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/1.jpg" data-lightbox="chento-londza" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/2.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/2.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/3.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/4.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/5.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/6.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/7.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/03Skopje - Gazi Baba, Cento Londza/8.jpg" data-lightbox="chento-londza" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/8.jpg" alt="" /></a>
+                      </div>
+                      
+                        
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Three -->
+      <div class="row">
+        <div id="kuprom" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/04Skopje - Kuprom/4.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>“Купром“ (Скопје)</h3>
+          <p class="objects-color-text">Немаме дополнителни информации во моментот.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/1.jpg" data-lightbox="hrom-kuprom" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/04Skopje - Kuprom/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/2.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/2.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/3.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/4.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/5.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/6.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/7.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/8.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/9.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/9.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/11.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/12.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/13.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/13.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/15.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/15.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/16.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/16.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/17.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/17.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/18.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/18.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/19.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/19.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/20.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/20.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/21.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/21.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/22.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/22.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/24.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/24.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/25.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/25.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/26.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/26.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/27.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/27.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/28.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/28.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/29.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/29.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/30.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/30.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/31.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/31.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/32.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/32.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/33.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/33.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/34.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/34.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/04Skopje - Kuprom/35.jpg" data-lightbox="hrom-kuprom" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/04Skopje - Kuprom/35.jpg" alt="" /></a>
+                      </div>
+
+
+                        
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Project Four -->
+      <div class="row">
+        <div id="hotel-kuba" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/01Kumanovo - Hotel Kuba/2.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Хотел “КУ-БА “ (Куманово) <img src="./img/icons/red.png" class="ss-icon"></h3>
+          <p><b>Година:</b> 1974</p>
+           
+          <p><b>Архитекти:</b> ГП “Козјак</p>
+
+          <p class ="objects-color-text text-justify">Објектот е затекнат во лоша конструктивна состојба предизвикана и од пожарите кои го имаат зафатено овој објект. Оштетувања се детектирани комплетно на фасадните ѕидови, прозорските отвори, околината во која егзистира. Срушени се одредени делови од ѕидовите а ентериерот е комплетно опустошен и разрушен. </p>
+          
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          
+          
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+           <hr class ="border-color">
+           <p class="objects-color-text text-justify">Интервенции: потребна е комплетна ревизија на конструктивниот систем и дали е потребно негово зајакнување , потребна е комплетна обнова на стаклената фасада на објектот и поставување на нови прозорци и стакла ,  потребни се комплетни ентериерни корекции . Потребни се одредени интервенции во однос на партерното уредување околу објектот.</p>
+          <p class ="objects-color-text text-justify">Хотелот  го проектираа архитектите на ГП „Козјак“ од Куманово, , односно  ја трансформираа старата зграда за предвојничка обука во хотелски дел, додека останатите ресторанстки делови , олимпискиот базен и другите помошни обејкти  беа дополнително доградени. Хотелот беше свечено даден во употреба  на 8 декември 1974 година. Располагаше со два ресторана, современа кујна, салон за одмор и рекреација на гостите со телевизор, една мала банкет сала и пространа тераса од 1000 седишата... Со прекрасна околина и со Олимписки базен кој се изгради во непосредна близина на хотелот и со план да се изградат модерни тениски игралишта.</p>
+          <p class ="objects-color-text text-justify">Хотелот Ку-Ба под познатата Проевска Карпа, некогаш омилено место за посетителите од сите страни на Македонија, одамна замина во стечај, а сега под мистериозни услови се руши во сопствената матица. Ретко кој е запознаен со статусот на објектот, освен оние кои се потрудија да го пеплосаат препознатливиот дух на Кумановската Бања и да го фрлат во ендек на вечно пропаѓање. Сместен во селото Проевце, на само три километри од Куманово, опустошениот хотел крие забранети приказни и животни стории впиени во срцевината на ѕидовите и скапаниот ентериер кој гласно вреска во името на минатото.</p>
+          <p class ="objects-color-text text-justify">Од јануари до ноември 2001 години многу жители од село Матејче се имаат доселено во хотелот Ку-Ба, кој во тоа време се наоѓаше во критична ситуација. Денеска хотел Ку-Ба е целосно демолиран, оштетен и вандалски осквернавен, а освен тоа базди на туѓи животи. Збирштина на наркомани, утешително место за бездомници и јавен тоалет за проблематичните мевови. </p>
+         
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/1.jpg" data-lightbox="kumanovo-kuba" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/2.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/2.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/3.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/4.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/5.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/6.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/7.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/01Kumanovo - Hotel Kuba/8.jpg" data-lightbox="kumanovo-kuba" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/8.jpg" alt="" /></a>
+                      </div>
+                      
+                        
+                    </div>
+              </div>
+            </section>  
+        </div>
+      </div>
+      <!-- /.row -->
+      <hr>
+      <!-- Project Five -->
+      <div class="row">
+        <div id="fabrika-kichevo" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/05Kicevo -  mlin i Fabrika/8.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Млин и Фабрика (Кичево)</h3>
+          <p class="objects-color-text">Немаме дополнителни информации во моментот.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/7.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/8.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/9.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/10.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/11.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/12.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/1.jpg" data-lightbox="kichevo-fabrika" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/2.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/2.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/3.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/4.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/5.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/05Kicevo -  mlin i Fabrika/6.jpg" data-lightbox="kichevo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/6.jpg" alt="" /></a>
+                      </div>
+                        
+                    </div>
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <!-- Project Five -->
+      <div class="row">
+        <div id="bazen" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/07Struga - Bazen/6.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Затворен базен (Струга) <img src="./img/icons/red.png" class="ss-icon"></h3>
+          <p><b>Година:</b> 1980</p>
+          <p><b>Архитекти:</b> Непознато</p>
+          <p class = "objects-color-text text-justify">Објектот се наоѓа во тотално девастирана архитектонско – градежна кондиција. Ослабена е конструктивната носивост на објектот , фасадата е тотално демолирана и оштетена, обрасната со зеленило кое продира внатре во објектот, нарушувајќи го ентериерот, кој е во фаза на распаѓање. Објектот е доведен во фаза на непрепознатливост.</p>
+          
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          
+          <hr class ="border-color">
+          <p class = "objects-color-text text-justify">Интервенции: Комплетна проверка на конструктивниот систем и носивоста на елементите,  уредување на партерот , обновување на фасадата на објектот, комплетна реконструкција на внатрешноста и инсталациите.
+          </p>
+          <p class = "objects-color-text text-justify">Изграден во  1980 год. базенот претставувал место каде многу деца и млади од Струга ,Охрид и околните населени места спортувале и го развивале својот талент за водни спортови ,пред се пливање и ватерполо. Од тука произлегле едни од најзначајните имиња на македонското пливање (најголем дел од рекордите во тоа време ги држеле пливачите од  П.К. Струга, а не се мали ни успесите на ватерполистите од истиот клуб). Во него исто се одржувале државни првенства и меѓународни турнири, а бил користен и за рекреација.</p>
+          <p class = "objects-color-text text-justify">Базенот престанува да работи од 2003 год. поради негрижа и немање интерес за финансирање на понатамошното функционирање на објектот. Не е претерано да се каже дека веќе долги години, особено внатрешноста на базенот е глетка која ужаснува. Сместен непосредно до едно од основите училишта во Струга, базенот е најголемо дувло во градот на зависницие од хероин. Сите врати и стакла се руинирани, има отпад, измет и шприцеви на секој чекор, поради што  се шири и неподнослива реа. Како таков претставува сериозна закана по општата безбедност. Ништо не е превземено за спречување на пристапот до базенот, а секој ден деца играат и спортуваат на игралиштата покрај него кои се во склоп на училишниот двор. Многу пати до сега се најавувала негова реставрација, но досега се’ се сведува на неисполнети ветувања и целосна незаинтересираност од страна на институциите.</p>    
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/1.jpg" data-lightbox="bazen-struga" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/07Struga - Bazen/1.jpg" alt=""/></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/3.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/4.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/5.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/6.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/7.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/8.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/9.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/10.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/07Struga - Bazen/2.jpg" data-lightbox="bazen-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/07Struga - Bazen/2.jpg" alt="" /></a>
+                      </div>
+                        
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <!-- Project Five -->
+      <div class="row">
+        <div id="treska" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/06Struga - Treska/10.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Камп Треска (Струга) <img src="./img/icons/red.png" class="ss-icon"></h3>
+          <p><b>Година:</b> 1968</p>
+          <p><b>Архитекти:</b>Непознато</p>
+          <p class ="objects-color-text text-justify"> Комплексот објекти се наоѓа во тотално напуштена и деградирана околина и градежна кондиција. Како комплекс поседува огромни архитектонски квалитети кои поради состојбата во која е затекнат сега се занемаруваат. </p>
+ 
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="border-color">
+          <p class ="objects-color-text text-justify">Затекнати се огромни оштетувања на фасадното обликување , оштетувања на одредени делови од конструктивниот систем , потполно оштетување на старите инсталации , комплетно неодржувано партерно уредување и околина кое го доведува до непрепознатливост објектот. Ентериерот е во девастирана состојба, затекнати се оштетувања на завршната обработка на ѕидовите и плафоните. Околното зеленило го окупирало објектот довело до одредени оштетувања на самите ѕидови. На овој објект се забележува употреба на азбестот како материјал за покривање на објектот ( кровот ) кој денес важи за високо опасен и штетен токсичен материјал.</p>
+          <p class ="objects-color-text text-justify">Интервенции : потребна е комплетна реконструкција на објектите и конструктивниот систем , обнова на фасадното обликување , обнова на ентериерот и инсталациите , отстранување и замена на кровните покривки на објектите со соодветни материјали кои не се штетни по здравјето на човекот , отстранување на околното зеленило кое навлегува во ентериерот на објектот , уредување на природната околина и партерот.</p>
+          <p class ="objects-color-text text-justify">Автокампот  е изграден во 1968 година на брегот на Охридското Езеро, на 11 км. од Струга и на 2 км. од селото Радожда, непосредно пред границата со Р. Албанија, а сопственик била фирмата „Треска“. Сместен на локација со идилична природа, претставувал едно од најубавите камп-летувалишта на територијата на Р.М. и пошироко. Комплексот се состои од неколку објекти: два угостителски објекти, голема тераса во склоп на едниот, бунгалови, камп-куќички и камп-приколки. Главниот угостителски објект е ресторан опремен со две сали во кои се одржувале разни собири, игранки и свечености од секој тип. Помалиот се наоѓа нешто побликсу до плажата и служел како кафе бар. Бунгаловите и камп-куќичките се поставени каскадно во зеленилото на падините на ридот кој се издига над плажите, а камп приколките се  поставени на неколку чекори од  езерскиот брег.</p>
+          <p class ="objects-color-text text-justify">Последно посетители за одмор и рекреација автокампот имал во 1999 год., а по пропаѓањето на фабриката „Треска“ во 2004 година, целосно оставен на забот на времето поради што со неговатта моментална состојба претставува зараза за посетителите на плажите во непосредна близина. Тешко е да не се спомене дека и тој мал број посетители остава голема количина отпад позади себе кој се зголемува од година во година и останува да скапува заедно со целиот комплекс.</p>
+          
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/1.jpg" data-lightbox="treska-struga" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/06Struga - Treska/1.jpg" alt=""/></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/3.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/4.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/5.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/6.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/7.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/8.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/9.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/10.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/11.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/12.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/13.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/13.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/14.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/14.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/15.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/15.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/16.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/16.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/17.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/17.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/18.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/18.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/19.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/19.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/20.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/20.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/06Struga - Treska/21.jpg" data-lightbox="treska-struga" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/06Struga - Treska/21.jpg" alt="" /></a>
+                      </div>
+                      
+                        
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div id="asnom" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/08Kocani - ASNOM/17.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Спомен Дом - АСНОМ (Кочани) <img src="./img/icons/red.png" class="ss-icon"></h3>
+          <p><b>Година:</b> Втората половина на XX век</p>
+          <p><b>Архитекти:</b> Непознато </p>
+          <p class ="objects-color-text text-justify">Објектот се наоѓа во добра конструктивно-градежна кондиција, со реупотреблив ентериер и екстериер. На објектот се предизвикани оштетувања на фасадата, оштетувања на прозорците, оштетување на внатрешноста – финалните обработки на ѕидовите, подовите, плафонот. </p>
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="border-color">
+          <p class ="objects-color-text text-justify">Партерот , околината е во запуштена состојба и пристапот кон објектот е отежнат.</p>
+          <p class ="objects-color-text text-justify">Интервенции : реконструкција на фасадата и прозорците, реобновување на партерното уредување и препознатливост на пристапот кон објектот, комплетни интервенции во ентериерот.</p>
+          <p class ="objects-color-text text-justify">Спомен Домот АСНОМ во Кочани е граден во раните осумдесети години на минатиот век. Според функцијата, требаше тоа да бидат простории во кои свое место под сонцето ќе најдат најразлични институции, друштва, здруженија на граѓани и организации. Сместен е на ридско место, од кое се пружа прекрасен панорамски поглед на градот и околината. </p>
+          <p class ="objects-color-text text-justify">Централното  место во Домот  му припаѓа на Салата, изградена со стандарди потребни за изведување на било каква сценска претстава. </p>
+          <p class ="objects-color-text text-justify">Неговата функција беше делумно остварена преку работата на Пионерскиот Дом, градската библиотека и Музичкото училиште. Во овој Дом, свое место имаа и Клубот за народна техника „Никола Тесла“. Низ годините на транзицијата, Пионерскиот Дом престана да функционира, Библиотеката се пресели во нови простории, а Народна техника и аматерскиот клуб исто така престанаа да функционираат.</p>
+          <p class ="objects-color-text text-justify">Денес, овој широк простор во најголем дел го користат Правниот факултет, Музичкото училиште и Радио Кочани. Просторија за проби користи и фолклорниот ансамбл „Руен“. Останатите простории, во текот на изминатите години беа дом на разни фолклорни, музички, невладини и други здруженија и друштва, но денесе  напуштени, руинирани, оставени безмилосно на забот на времето, нудејќи грда слика  и спомен на едно минато.</p>
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/1.jpg" data-lightbox="asnom-kocani" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/08Kocani - ASNOM/1.jpg" alt=""/></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/3.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/4.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/5.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/6.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/7.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/8.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/9.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/10.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/11.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/12.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/12.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/14.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/14.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/15.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/15.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/16.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/16.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/17.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/17.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/18.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/18.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/19.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/19.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/20.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/20.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/21.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/21.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/22.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/21.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/08Kocani - ASNOM/13.jpg" data-lightbox="asnom-kocani" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/08Kocani - ASNOM/13.jpg" alt="" /></a>
+                      </div>
+                        
+                    </div>
+              </div>
+            </section>  
+        </div>
+      </div>
+
+      <hr>
+      <div class="row">
+        <div id="fabrika-kumanovo" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/09Kumanovo - fabrika leb/3.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Фабрика за леб и бели пецива (Куманово) <img src="./img/icons/red.png" class="ss-icon"></h3>
+          <p><b>Година:</b> Втора половина на XX век</p>
+          <p><b>Архитекти:</b> Непознато </p>
+          <p class ="objects-color-text text-justify">Објектот е затекнат во средно добра конструктивна конструкција со одредени нарушувања на надворешните ѕидови. Генерално гледано – конструктивно и композициски објектот е задржан во целост со одредени оштетувања на неговата фасада и комплетно оштетување на стаклените прозорски отвори.</p>
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="border-color">
+          <p class ="objects-color-text text-justify">Партерот е во средно добра состојба , забележани се одредени минимални оштетувања.</p>
+          <p class ="objects-color-text text-justify">Интервенции : потребна е проверка на конструктивниот систем и дали е потребно негово зајакнување, потребна е комплетна обнова на стаклената фасада на објектот и поставување на нови прозорци и стакла  како и ревитализација на останатиот масивен дел од фасадата. Потребни се одредени интервенции во однос на партерното уредување околу објектот.</p>
+          <p class ="objects-color-text text-justify">Се наоѓа во центарот на градот, помеѓу два објекти, Музеј на град Куманово и Министерство за труд и социјални политики, во непосредна близина на основното училиште 11 Октомври.  Фабриката како еден од најголемите снабдувачи со леб и пецива била добростоечко претпријатие со релативно стабилна стопанска позиција.</p>
+          <p class ="objects-color-text text-justify">Хронолошки и накусо за историјата на оваа градба, фирмата паднала под стечај во 2003 година, во 2004 година се приватизира, а во 2005 година во фирмата како сопственик  влегува Бајруш Сејдиу. Во 2008 година работниците од фабриката штрајкуваат откако е упасен Б.С., во 2010 година фабриката ја водат Струмичани, во 2011 изречена е казна притвор за Б.С., со што фабриката престанува со работа и нејзината сопственост потпаѓа под Агенцијата за управување со одземен имот ( во сопственост на РМ). Во 2012 избувнал пожар во напуштената фабрика, во погонот за леб и бели пецива. </p>
+          <p class ="objects-color-text text-justify">Денес се наоѓа во напуштена и незаштитена состојба, нема чувар и слободно може да влезе секој минувач. Објектот претставува синоним за извор на зараза и друга општа опасност за локалните минувачи и жители кои живеат во непосредна близина. </p>
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/1.jpg" data-lightbox="kumanovo-fabrika" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/09Kumanovo - fabrika leb/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/2.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/2.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/3.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/4.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/5.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/6.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/7.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/8.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/09Kumanovo - fabrika leb/9.jpg" data-lightbox="kumanovo-fabrika" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/09Kumanovo - fabrika leb/9.jpg" alt="" /></a>
+                      </div>
+                      
+                        
+                    </div>
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div id="fabrika-cer" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/10 Selo Cer - 1988 Granit fabrika/3.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Фабрика ”Гранит” (Цер)</h3>
+          <p class= "objects-color-text">Немаме дополнителни информации во моментот.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/1.jpg" data-lightbox="fabrika-cer" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/1.jpg" alt=""/></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/3.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/4.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/5.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/6.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/6.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/8.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/9.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/10.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/11.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/12.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/13.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/13.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/14.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/14.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/15.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/15.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/10 Selo Cer - 1988 Granit fabrika/16.jpg" data-lightbox="fabrika-cer" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/16.jpg" alt="" /></a>
+                      </div>
+                      
+                      
+            
+                    </div>
+                   
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div id="kasarna" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/11 Bitola - Voen objekt/8.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Воена зграда (Битола)  <img src="./img/icons/yellow.png" class="ss-icon"></h3>
+          <p><b>Година:</b> Втората половина на XX век</p>
+          <p><b>Архитекти:</b> Непознато </p>
+          <p class ="objects-color-text text-justify">Објектот се наоѓа во добра конструктивна состојба која ќе може да се реупотреби во новиот концепт и обновувањето. Стаклената фасада на објектот е оштетена, искршени се прозорците, завршната обработка на плафонот и ѕидовите е во оштетена состојба. Партерното уредување е во напуштена состојба – објектот е обраснат во зеленило.</p>
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="border-color">
+          <p class ="objects-color-text text-justify">Интервенции : Минимални интервенции во обработката на фасадата , замена на искршените прозорски отвори со нови – инсталирање на нови стакла , проценка на конструкцијата и доколку е потребно нејзино зајакнување , интервенции во ентериерот според новата предвидена намена , потребни се интервенции во партерното уредување и негово обновување.</p>
+          <p class ="objects-color-text text-justify">Кај касарната во Битола, каде порано се наоѓала војската, наидуваме на доволен број на воени објекти (складишта, мензи, администрации итн.) кои Битола ги наследила од втората половина на XX век. При проектирањето на ваквите објекти се земаат во предвид повисоки коефициенти на сигурност при техничките пресметките на истите, што би значело дека овие објекти се поиздржливи и комотно можат да се реставрираат и ревитализираат врз основа на веќе остварената структура на издржливост. И во вакви објекти се вложувало многу во однос на секаква инсталација (водоводна, канализација, телекомуникациски, електро инсталации...) меѓутоа сите тие инсталации сега се веќе украдени. </p>
+          <p class ="objects-color-text text-justify">Овие објекти се целосно под сопственост на владата на Р. Македонија, меѓутоа фокусот е свртен кон градење на нови населби и станбени структури во непосредна близина на овие рушевини, со што придонесува кон намалување на потребните зелените површини, згуснување на волуменските структури, наместо ре-употреба со стратешка интервенција во однос на веќе постоечкиот урбанистички план и габарити.</p>
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/1.jpg" data-lightbox="kasarna-bitola" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/11 Bitola - Voen objekt/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/2.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/2.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/3.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/4.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/5.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/6.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/7.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/7.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/11 Bitola - Voen objekt/8.jpg" data-lightbox="kasarna-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/11 Bitola - Voen objekt/8.jpg" alt="" /></a>
+                      </div>
+                      
+                      
+                      
+                      
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div id="fabrika-bitola" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/12 Bitola fabrika koza/1.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Фабрика за Кожа и Текстил – Трикотажа ”Пелистер” <img src="./img/icons/red.png" class="ss-icon"></h3>
+          <p><b>Година:</b> Втората половина на XX век</p>
+          <p><b>Архитекти:</b> Непознато </p>
+          <p class ="objects-color-text text-justify">Објектот е затекнат во комплетно девастирана состојба. Има масовни оштетувања на конструктивниот систем, оштетувања на покривот – кровната конструкција, оштетувања на фасадата и скршени прозорски стакла, комплетно оштетена фасада. </p>
+          <a class=" show-gallery white-text-button">Покажи Повеќе
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="border-color">
+          <p class ="objects-color-text text-justify">Објектот е сраснат со природното опкружување и непрепознатлив како постоечки објект . Ентериерот е комплетно оштетен и девастиран.</p>
+          <p class ="objects-color-text text-justify">Интервенци : комплетна реконструкција на конструктивниот систем , комплетна реконструкција на покривот и кровот , комплетна реконструкција и обновување на фасадата . Уредување на природната околина- зеленилото и партерното уредување , давање препознатливост на објектот . При фасадното обновување комплетна замена на прозорците . Следствено на овие интервенции следуваат комплетни интервенции во ентериерот – обновување на завршните обработки на подовите, ѕидовите и плафоните.</p>
+          <p class ="objects-color-text text-justify"Фабрика за кожа и текстил, некогаш под сопственост на Трикотажа – Пелистер, денес оставена немилосрдно да гние и пропаѓа изложена на атмосферски и човечки фактори. Парцела од 32 парчиња, 29 се на Р.Македонија, а 3 на  СЕРВИС ДАКА ПОПОСКИ ТРАЈАН БИТОЛА ДООЕЛ.</p>
+          <p class ="objects-color-text text-justify">Објектите на парцелите се делат на 4 страни: Телеком, Македонска пошта,  КОЖНА ГАЛАНТЕРИЈА ИДНИНА ХЕРАКЛЕА и ДООЕЛ СЕРВИС-ДАКА.</p>
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/1.jpg" data-lightbox="fabrika-bitola" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/12 Bitola fabrika koza/1.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/2.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/2.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/3.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/4.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/5.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/6.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/7.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/7.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/8.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/9.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/9.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/11.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/12.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/12 Bitola fabrika koza/10.jpg" data-lightbox="fabrika-bitola" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/12 Bitola fabrika koza/10.jpg" alt="" /></a>
+                      </div>
+                      
+                      
+            
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+       <div class="row">
+        <div id="ljubanci" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/13Ljubanci/4.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Зимско Одмаралиште <img src="./img/icons/yellow.png" class="ss-icon"></h3>
+          <p class="objects-color-text">Немаме дополнителни информации во моментот.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/1.jpg" data-lightbox="ljubanci" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/13Ljubanci/1.jpg" alt=""/></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/3.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/3.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/4.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/4.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/5.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/5.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/6.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/6.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/7.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/7.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/8.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/8.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/9.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/9.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/10.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/11.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/11.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/12.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/12.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/13.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/13.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/14.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/14.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/15.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/15.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/16.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/16.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/17.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/17.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/18.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/18.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/19.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/19.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/20.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/20.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/21.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/21.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/22.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/22.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/23.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/23.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/24.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/24.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/25.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/25.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/26.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/26.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/27.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/27.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/28.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/28.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/13Ljubanci/29.jpg" data-lightbox="ljubanci" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/13Ljubanci/29.jpg" alt="" /></a>
+                      </div>
+                      
+                        
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div id="partizan" class="col-md-7 object-photo">
+          <a>
+            <img class="img-fluid rounded mb-3 mb-md-0" src="./img/14 Partizan/01.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-5">
+          <h3>Спортска Сала ”Партизан” <img src="./img/icons/yellow.png" class="ss-icon"></h3>
+          <p class ="objects-color-text text-justify">Салата „Партизан“ е изградена во 1969 година како подарок од француската влада за разрушениот град Скопје. Иако се наоѓа на само неколку чекори од CityMall, сепак таа е напуштена. Вратите се обиени, прозорците се искршени, дел од ѕидовите се срушени и голем дел од спортската опрема е откорната или украдена.</p>
+          <a class=" show-gallery white-text-button">Фото Галерија
+            <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+          <a class="fa fa-close pull-right close-gallery" style="display: none;"></a>
+        </div>
+
+        <div class="col-md-12" style="display: none;">
+          <hr class ="remove-border-projects">
+            <section>
+
+              <div class="row">
+                   <h3>Галерија</h3>
+                    <div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/01.jpg" data-lightbox="partizan" data-title="Click the right half of the image to move forward."><img class="example-image" src="./img/14 Partizan/01.jpg" alt=""/></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/02.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/02.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/03.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/03.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/04.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/04.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/05.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/05.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/06.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/06.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/07.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/07.jpg" alt="" /></a>
+                      </div>
+                      
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/09.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/09.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/10.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/10.jpg" alt="" /></a>
+                      </div>
+                      <div class='one-third'>
+                        <a class="example-image-link" href="./img/14 Partizan/12.jpg" data-lightbox="partizan" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="./img/14 Partizan/12.jpg" alt="" /></a>
+                      </div>
+                      
+                      
+                      
+                      
+                    </div>
+                    
+              </div>
+            </section>  
+        </div>
+      </div>
+      <hr>
+
+      <!-- Pagination -->
+      
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-footer">
+      <div class="container">
+        <div class=" text-center social-icons">
+                  <a target="_blank" href="https://www.facebook.com/CulturalEchoes/" class="social-footer">
+                    <i class="fa fa-facebook-square fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://twitter.com/EchoesCultural" class="social-footer">
+                    <i class="fa fa-twitter-square fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://www.instagram.com/culturalechoes/" class="social-footer">
+                    <i class="fa fa-instagram fa-2x icon-muted"></i>
+                  </a>
+                  <a target="_blank" href="https://www.linkedin.com/company/cultural-echoes" class="social-footer">
+                    <i class="fa fa-linkedin-square fa-2x icon-muted"></i>
+                  </a>
+        </div>
+        <p class="m-0 text-center text-grey">contact@culturalechoes.org<br></p>
+        
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/lightbox-plus-jquery.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        $(".show-gallery").click(function(){
+          console.log("smt funnz");
+          $(this).parent().siblings().fadeIn( "slow" );
+          $(this).hide();
+          $(this).siblings().fadeIn("slow");
+        });
+
+        $(".close-gallery").click(function(){
+          console.log("smt funnz");
+          $(this).parent().siblings(".col-md-12").hide( "slow" );
+          
+          $(this).hide();
+          $(this).siblings(".show-gallery").fadeIn("slow");
+        });
+        $(".contact").click(function(){
+          $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+        });
+
+
+
+      });
+
+    </script>
+
+  </body>
+
+</html>
