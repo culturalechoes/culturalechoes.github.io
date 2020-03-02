@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Cultural Echoes - Abandoned Opportunities</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/additional-css.css" rel="stylesheet">
+    <link rel='shortcut icon' type='image/x-icon' href='./img/icons/favicon.ico' />
+
+
+  </head>
+
+  <body style="padding-top:0px;">
+    <!-- Page Content -->
+      <!-- Content Row -->
+      <div class="row">
+        <!-- Map Column -->
+         <div class="col-lg-8">
+          <!-- Embedded Google Map -->
+          <div id="map"></div>
+        </div>
+        <!-- Contact Details Column -->
+            </li>
+        <div class="col-lg-4 mb-4">
+          <h3 class = "margin-title">Condition Info</h3>
+          
+          <p class = "objects-color-text">
+           <img src="./img/icons/green.png" class="ss-icon"> good condition - minor intervention
+          </p>
+          <p class = "objects-color-text">
+            <img src="./img/icons/yellow.png" class="ss-icon"> poor condition - medium intervention
+            
+          </p>
+          <p class = "objects-color-text">
+            <img src="./img/icons/red.png" class="ss-icon"> bad condition - major intervention
+          </p>
+        </div>
+     </div>
+      <!-- /.row -->
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+            </li>
+    <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+    <script>
+    function initMap(){
+      // Map options
+      var options = {
+        zoom:8,
+        center:{lat: 41.655, lng: 21.767}
+      }
+
+      // New map
+      var map = new google.maps.Map(document.getElementById('map'), options);
+
+      
+      
+
+      /*
+      // Add marker
+      var marker = new google.maps.Marker({
+        position:{lat:42.4668,lng:-70.9495},
+        map:map,
+        icon:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+      });
+
+      var infoWindow = new google.maps.InfoWindow({
+        content:'<h1>Lynn MA</h1>'
+      });
+
+      marker.addListener('click', function(){
+        infoWindow.open(map, marker);
+      });
+      */
+
+      // Array of markers
+      var markers = [
+        {
+          coords:{lat: 42.0059943, lng: 21.5009999},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Chento</h4><div class="devided"><a class="example-image-link" href= "./Objects" target="_blank"><img class="example-image" src="./img/20180427_140915.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.0037487,lng:21.4956029},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Lonzda, (Chento)</h4><div class="devided"><a class="example-image-link" href= "./Objects#chento" target="_blank" ><img class="example-image" src="./img/03Skopje - Gazi Baba, Cento Londza/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.0011006,lng:21.3758591},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Kuprom</h4><div class="devided"><a class="example-image-link" href= "./Objects#londza" target="_blank" ><img class="example-image" src="./img/04Skopje - Kuprom/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.1193693,lng:21.7449777},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Hotel “ KU-BA”</h4><div class="devided"><a class="example-image-link" href= "./Objects#kuprom" target="_blank"><img class="example-image" src="./img/01Kumanovo - Hotel Kuba/3.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.5034142,lng:20.9417212},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Mill and Factory</h4><div class="devided"><a class="example-image-link" href= "./Objects#hotel-kuba" target="_blank"><img class="example-image" src="./img/05Kicevo -  mlin i Fabrika/7.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.1746556,lng:20.6843228},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Swimming Pool</h4><div class="devided"><a class="example-image-link" href= "./Objects#fabrika-kichevo" target="_blank"><img class="example-image" src="./img/07Struga - Bazen/6.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.0933078,lng:20.6323884},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Camp Treska</h4><div class="devided"><a class="example-image-link" href= "./Objects#bazen" target="_blank"><img class="example-image" src="./img/06Struga - Treska/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.918196,lng:22.413458},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Memorial House of <br> ASNOM </h4><div class="devided"><a class="example-image-link" href= "./Objects#treska" target="_blank"><img class="example-image" src="./img/08Kocani - ASNOM/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.1388804,lng:21.7179776},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Bread Factory</h4><div class="portrait"><a class="example-image-link" href= "./Objects#asnom" target="_blank"><img class="example-image" src="./img/09Kumanovo - fabrika leb/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.4124781,lng:21.0499332},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Factory ”Granit”</h4><div class="devided"><a class="example-image-link" href= "./Objects#fabrika-kumanovo" target="_blank"><img class="example-image" src="./img/10 Selo Cer - 1988 Granit fabrika/3.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.020346,lng:21.331319},
+          iconImage:'./img/icons/yellow.png',
+          content:'<h4 class = "map-font-size">Military Building</h4><div class="devided"><a class="example-image-link" href= "./Objects#fabrika-cer" target="_blank"><img class="example-image" src="./img/11 Bitola - Voen objekt/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:41.032729,lng:21.324680},
+          iconImage:'./img/icons/red.png',
+          content:'<h4 class = "map-font-size">Textile and Leather Factory<br>– Knitwear ”Pelister”</h4><div class="devided"><a class="example-image-link" href= "./Objects#kasarna" target="_blank"><img class="example-image" src="./img/12 Bitola fabrika koza/1.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.108139,lng:21.469472},
+          iconImage:'./img/icons/yellow.png',
+          content:'<h4 class = "map-font-size">Winter Resort</h4><div class="devided"><a class="example-image-link" href= "./Objects#ljubanci" target="_blank"><img class="example-image" src="./img/13Ljubanci/4.jpg" alt=""/></a></div>'
+        },
+        {
+          coords:{lat:42.005705,lng:21.391209}, 
+          iconImage:'./img/icons/yellow.png',
+          content:'<h4 class = "map-font-size">Indoor Gym ”Partizan”</h4><div class="devided"><a class="example-image-link" href= "./Objects#partizan" target="_blank"><img class="example-image" src="./img/14 Partizan/01.jpg" alt=""/></a></div>'
+        }
+      ];
+
+      // Loop through markers
+      for(var i = 0;i < markers.length;i++){
+        // Add marker
+        addMarker(markers[i]);
+      }
+
+      // Add Marker Function
+      function addMarker(props){
+        var marker = new google.maps.Marker({
+          position:props.coords,
+          map:map,
+          //icon:props.iconImage
+        });
+
+        // Check for customicon
+        if(props.iconImage){
+          // Set icon image
+          marker.setIcon(props.iconImage);
+        }
+
+        // Check content
+        if(props.content){
+          var infoWindow = new google.maps.InfoWindow({
+            content:props.content
+          });
+
+          marker.addListener('click', function(){
+            infoWindow.open(map, marker);
+          });
+        }
+      }
+    }
+  </script>
+  <script>
+      $(document).ready(function() {
+        
+        $(".contact").click(function(){
+          $("html, body").animate({ scrollTop: document.body.scrollHeight }, "slow");
+        });
+
+
+
+      });
+
+    </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAJz-LTfCz7NBwnn5yrlKgFpARxeNUZz9o&callback=initMap"
+    async defer></script>
+
+  </body>
+
+</html>
