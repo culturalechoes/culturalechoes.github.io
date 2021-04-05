@@ -132,12 +132,12 @@
 }
 
 .margin-header-left{
-	margin-left: 1%;
+	margin-left: 4%;
 }
 
 @media screen and (max-width:  1200px){
       .margin-header-left{
-	margin-left: 1%;
+	margin-left: 8%;
 }
 
     }
