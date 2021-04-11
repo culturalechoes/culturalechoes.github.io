@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/culturalechoes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://culturalechoes.org
+  * I am culturalechoes (https://keybase.io/culturalechoes) on keybase.
+  * I have a public key with fingerprint 0E76 4C47 F871 62B7 B03D  8958 8253 E1D4 E6D0 3454
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013ec5e62d8278a350aa22b5ea679381e22090d5359228babdb4ff90aea5dfa5080a",
+      "fingerprint": "0e764c47f87162b7b03d89588253e1d4e6d03454",
+      "host": "keybase.io",
+      "key_id": "8253e1d4e6d03454",
+      "kid": "01013ec5e62d8278a350aa22b5ea679381e22090d5359228babdb4ff90aea5dfa5080a",
+      "uid": "293e65db86927b95e23d3d81a1d13119",
+      "username": "culturalechoes"
+    },
+    "service": {
+      "hostname": "culturalechoes.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1618171501,
+  "expire_in": 157680000,
+  "prev": "cb9c3edd8537c90aab9d8b3d5a9029b1c25abce2b0e021567e99e6fa6d577fcf",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD5Hs4uhBRFUFNVCLyE6M3tmLyeKojwlFUSFUEjHmZ3Z4+px
+97S7XiIsIipSgi50kUSjKymW0INSFGomaGXWQ1IZSdEFK7qAYETQrNRbj83LMPN/
+3/d/38/fk5Ueygzfy1/c/2zw1fzw/a4LFaFir7B8t0QdtkuK7pbK+MTFk4x7frzM
+YlJUAhBAmRuYK4hpSNWIjAEhCFHMiaLqsgY5QkAHDMtYR0ijhDIaMU0dEE4wMwkG
+GiBSjmRadoK7Kdey/UCWq0rEiKimpkIFUZUCmWk61jSEZQ5ZhCsMyBEcEcQSxwsY
+whwlHs+1HPEnHvEJe//A/2ffFRNySJe5ghnVFB2pVMccyUw4hgQyKEOoB0CPuzYp
+5wJtVCT9CpckuVHicE+qyZFErdIyeDDeIM8/cbmOmxA6KdfxHcNJinqJ76e8aMD3
+d6UCQhWn8T9ScWrZTMxUMCq561mOLUWhQBq+FWhDBWpQhRjAHIlXpyyXx60AgVVF
+A+IEfXhl4IHqhswZ07CsGiI9oTrTqMww0QHSKTQQJtTgiAIOEMSKynWdKyZRGFZV
+0zClINxO25GiEWGTJISkZyVsIoJxqaa7s2hSKJwZmpyRFuxaKHPazL8b+GDflF/z
+YuP1bSe9oauhxNuu22baq+dty2rXv+u+q9bs2eA3ZduZpLZhMP7x06H3Q2P51iK0
+sTjZJs9f+rB26/T8E/1H+/HPGYUtUz4OfL2htt7I3RrbYA70fR99M7l8RdqHTSvX
+9Qw8vnDo1uW86rKqz2sW7/ULxl5/G++taj9+LFbc3EzqujKK2lcpsc7vLSsKFza2
+kuy5a7OeNqXjlyOjC5aM2MOzGw0yNvJEO1J61s4ZfvxjS385T5y6dG55KXtxJrfn
+4fbYnIPfbuWHw2BW/bb9Vw7vtB6db1zd+8UdnNoEWsc7bvZeP9NxffPpkzs6R+tY
+XV72neXXGg586cPre0dOF7gXfwN6U03Q
+=NLPC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/culturalechoes
+
+==================================================================
